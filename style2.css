@@ -1,0 +1,24 @@
+table {
+	box-align: center;
+	width: 100%;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 10px 20px;
+	text-align: center;
+}
+
+th {
+	background-color: lightskyblue;
+	color: white;
+}
+
+ul {
+	padding-left: 40px;
+	text-align: left;
+}
+
+.img gambar1 {
+	align-items: center;
+}
